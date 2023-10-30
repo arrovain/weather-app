@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  color: rgb(48, 137, 215);
+  padding: 0;
+  background-color: rgb(15, 11, 12);
+}
+
+.app {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+p {
+  font-size: 1.8rem;
+}
+
+h1 {
+  font-size: 7rem;
+}
+
+input {
+  width: 300px;
+  border: none;
+  margin: 20px;
+  padding: 1.5rem;
+  border-radius: 1.2rem;
+}
